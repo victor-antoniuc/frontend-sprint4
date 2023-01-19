@@ -72,3 +72,7 @@ th {
 .images img {
     width: 30%;
 }
+
+.active {
+    background-color: #04AA6D;
+  }
