@@ -1,5 +1,5 @@
 body {
-    background-color: #DCDCDC;
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Download-Sky-Wallpapers-Hd.jpg);
 }
 
 ul {
@@ -55,11 +55,11 @@ th {
     background-color: #181818;
 }
 
-.td-gray {
+tr:nth-child(odd) {
     background-color: #444343;
 }
 
-.td-dimgray {
+tr:nth-child(even) {
     background-color: #696969;
 }
 
